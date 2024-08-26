@@ -9,7 +9,7 @@ const compScorePara = document.querySelector("#comp-score");
 
 const genCompChoice =() => {
     const options = ["rock", "paper", "scissors"];
-    const randIdx = Math.floor(Math.random() * 3);                             //Math.floor(Math.random() * 3)  iss se koi bhi random number computer se generate hoga pr wo 0 se 1 ke bich mai koi random no.hoga isliye humne  multiply by three kiye hai taki 1 se 2 ke bich mai koi bhi hum generate ho
+    const randIdx = Math.floor(Math.random() * 3);                     
     return options[randIdx];                             
 };
 
