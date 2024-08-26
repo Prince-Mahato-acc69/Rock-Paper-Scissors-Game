@@ -31,6 +31,3 @@ Contributions are welcome! To contribute to this project:
 Acknowledgments
 Inspired by the classic Rock, Paper, Scissors game.
 Thanks to various online resources for JavaScript tips and tricks.
-
-Contact
-For any questions or feedback, please contact me at mahatoprince61@gmail.com
